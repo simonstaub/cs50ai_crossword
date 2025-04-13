@@ -1,6 +1,6 @@
 problem: https://cs50.harvard.edu/ai/2024/projects/3/crossword/
 
-###Crossword Puzzle Solver – CS50 AI Project
+### Crossword Puzzle Solver – CS50 AI Project
 This project is part of Harvard’s CS50’s Introduction to Artificial Intelligence with Python and focuses on building an AI that can generate complete crossword puzzles from a given grid structure and a list of words.
 
 ##Problem Overview
